@@ -23,8 +23,6 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 📫 How to reach me **programmerharun@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/rokib-hasan-rifat)
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
